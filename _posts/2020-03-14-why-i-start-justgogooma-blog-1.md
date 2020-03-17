@@ -4,6 +4,8 @@ title:  "나는 왜 Just Go! 구마를 시작했는가. 1 "
 author: justgogooma
 categories: [ About ]
 image: assets/images/go2.jpg
+featured: true
+hidden: true
 ---
 
 #### Part1. 왜 나는 고구마를 사랑하는가
