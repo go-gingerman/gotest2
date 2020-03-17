@@ -1,37 +1,22 @@
 ---
 layout: post
-title: CU에서 만난 고구마 - HEYROO 마시는 한끼 고구마 
-date: 2019-10-07 21:30:00 +09:00
-author: "Justgogooma"
-permalink: /cu-drinkinggogooma/
-image:
-  feature: drinkinggogooma-thumnail.jpg 
-categories:
-  - Prologue
-  - review
-content_id: id06
-tags:
-  - review
-  - Justgogooma
-  - 저스트고구마
-  - 고구마제품리뷰
-  - 씨유
-  - 편의점제품리뷰
-  - 고구마음료
-  - 한끼대용
-description: 한끼를 마셔보자, 드링킹드리킹 ..더보기..
-
+title:  "CU에서 만난 고구마 - HEYROO 마시는 한끼 고구마"
+author: justgogooma
+categories: [ 고구마간식, 고구마제품리뷰, 고구마편의점, 고구마음료 ]
+image: assets/images/go6.jpg
+rating: 1
 ---
 
- <br>
-
-#### 제가 한번 마셔보겠습니다. 한끼를 ! 
 
  <br>
 
-아니 CU는 제가 매 끼를 '마시는'걸 어찌 알고 [마시는 한끼 고구마]를 내놓았을까요. 
+#### 제가 한번 마셔보겠습니다. 한끼를 !
 
-아 물론 여기서 말하는 한끼와 제가 끼니마다 마시는 한끼의 양과 종류가 다르긴 합니다. ^0^ 
+ <br>
+
+아니 CU는 제가 매 끼를 '마시는'걸 어찌 알고 [마시는 한끼 고구마]를 내놓았을까요.
+
+아 물론 여기서 말하는 한끼와 제가 끼니마다 마시는 한끼의 양과 종류가 다르긴 합니다. ^0^
 
 <br>
 
@@ -41,11 +26,11 @@ description: 한끼를 마셔보자, 드링킹드리킹 ..더보기..
 
  <br>
 
-CU에 갔다가 눈에 띄어 집어 들었습니다. 
+CU에 갔다가 눈에 띄어 집어 들었습니다.
 
 <br>
 
-한 손에 들어오는 사이즈 100ml,  HEYROO가 무슨 뜻인가 했더니, 아니 이거 CU PB상품이였습니다 . CU PB 브랜드가 HEYROO , 무려 캐릭터도 있습니다... 알고 있었나요 ..........?ㅋ ㅋㅋㅋㅋㅋㅋ 왜 회사들은 이런 쓸데없는 캐릭터를 만들고 돈을 쓰는지 모르겠습니다. 패키징 할떄 필요하나...? 으르신들이 좋아하는 걸까요...? 누구 아시는 분...? 
+한 손에 들어오는 사이즈 100ml,  HEYROO가 무슨 뜻인가 했더니, 아니 이거 CU PB상품이였습니다 . CU PB 브랜드가 HEYROO , 무려 캐릭터도 있습니다... 알고 있었나요 ..........?ㅋ ㅋㅋㅋㅋㅋㅋ 왜 회사들은 이런 쓸데없는 캐릭터를 만들고 돈을 쓰는지 모르겠습니다. 패키징 할떄 필요하나...? 으르신들이 좋아하는 걸까요...? 누구 아시는 분...?
 
 <br>
 
@@ -57,13 +42,13 @@ CU에 갔다가 눈에 띄어 집어 들었습니다.
 
 <Br>
 
-리뷰 답게 제품 상세정보도 찍어 보았습니다. 
+리뷰 답게 제품 상세정보도 찍어 보았습니다.
 
 제품명 : HEYROO 마시는 한끼 고구마
 
-식품의 유형 : 가공두유, 멸균제품 
+식품의 유형 : 가공두유, 멸균제품
 
-원재료:  정제수, 원액두유, 설탕, 불엿, 가공유지, 산도조절제, 유화제, 군고구마페이스트(고구마 100^, 인도네시아산), 호박분말, 조제스위트콘파우더 .... 
+원재료:  정제수, 원액두유, 설탕, 불엿, 가공유지, 산도조절제, 유화제, 군고구마페이스트(고구마 100^, 인도네시아산), 호박분말, 조제스위트콘파우더 ....
 
 <br>
 
@@ -75,7 +60,7 @@ CU에 갔다가 눈에 띄어 집어 들었습니다.
 
 원재료를 보는데 아니.. 군고구마페이스트 몇번째니..? 왜 두유가 맨 앞이지..? 이떄부터 이 고구마 음료라고 표방하는 이 음료의 정체를 의심했었어야 했는데...
 
-<br> 
+<br>
 
 
 
@@ -83,7 +68,7 @@ CU에 갔다가 눈에 띄어 집어 들었습니다.
 
  <br>
 
-가격은 1300원,  한끼 치고 저렴합니다. (과연 한끼로 될지는 논외 입니다 ^0^) 
+가격은 1300원,  한끼 치고 저렴합니다. (과연 한끼로 될지는 논외 입니다 ^0^)
 
 <br>
 
@@ -95,15 +80,15 @@ CU에 갔다가 눈에 띄어 집어 들었습니다.
 
 <br>
 
-누우런 속살이 보입니다. 
+누우런 속살이 보입니다.
 
 <br>
 
-#### 그럼 본격적으로 먹어 볼까요? 
+#### 그럼 본격적으로 먹어 볼까요?
 
   <br>
 
-![drinking-5](https://lh3.googleusercontent.com/yDz1Ob_oUk0kDicYgkG70XyAfefWTLS2YWtsupm41RP_i9yBVlyFOJxLTeCCp3GBmUEC16uLMAgpve5tszQznNzN4JC8rM7KUaUVs9lI9U-PAZzztrk6J9AyFkbp505TGwLemOmN8eT-AWDl7oxPCaVQd3Gcgt_jCbUzk54yiw6v15UHroqprdTBNEGMRgngDE6ICnb01NKZM1MwvgdLh-qUtgedE57vElOoV2GoY6vL9S46oP3FwFv5MAvaPOiG_VQjFh6shIC16fVRxNxQCv0TqZzn0oQgfYV74q8sYMTwn7XJ5NrITC4L87S4bOi14Owh6uPA9ehTt3aDQ9ex3MQcqd1d21CFcpqAOSrj8A2wJL-7EqLkXcobTRaSGxxAhBt6di7-_WFn7nkszTzgF2pMxVOH0yHA3Lw2LG1zhneTvqMF-MnTv_vUSi3rFUWkfPezPeT5GOWmQlZNYVAODt7nlDL-olw3flYtb1JFaOZ_PTL1k6aqPr4Zq513VastqMVDA4QQus4Q3gtnEsABK5btUB4E-0mDHt31a2Vw9x6uiBFTGgRH4k46vf00iQr9UJkDFgpHVfZlmn5YwmKuIh-Wv0dWi5sjXN0va8zCuI7nBKdjRArSWM58KzKSl1AA96_75cUXBO1iPE-XtAHDagEhW53YEJB9iWbqWaNWGnjGbAaYV2AsJ9R0FP64Oo7LFsxHtOdOIXqYdyeGkzP4AoAIajgAkRQ5xzi_-P28fT1uH7zk=w703-h937-no) 
+![drinking-5](https://lh3.googleusercontent.com/yDz1Ob_oUk0kDicYgkG70XyAfefWTLS2YWtsupm41RP_i9yBVlyFOJxLTeCCp3GBmUEC16uLMAgpve5tszQznNzN4JC8rM7KUaUVs9lI9U-PAZzztrk6J9AyFkbp505TGwLemOmN8eT-AWDl7oxPCaVQd3Gcgt_jCbUzk54yiw6v15UHroqprdTBNEGMRgngDE6ICnb01NKZM1MwvgdLh-qUtgedE57vElOoV2GoY6vL9S46oP3FwFv5MAvaPOiG_VQjFh6shIC16fVRxNxQCv0TqZzn0oQgfYV74q8sYMTwn7XJ5NrITC4L87S4bOi14Owh6uPA9ehTt3aDQ9ex3MQcqd1d21CFcpqAOSrj8A2wJL-7EqLkXcobTRaSGxxAhBt6di7-_WFn7nkszTzgF2pMxVOH0yHA3Lw2LG1zhneTvqMF-MnTv_vUSi3rFUWkfPezPeT5GOWmQlZNYVAODt7nlDL-olw3flYtb1JFaOZ_PTL1k6aqPr4Zq513VastqMVDA4QQus4Q3gtnEsABK5btUB4E-0mDHt31a2Vw9x6uiBFTGgRH4k46vf00iQr9UJkDFgpHVfZlmn5YwmKuIh-Wv0dWi5sjXN0va8zCuI7nBKdjRArSWM58KzKSl1AA96_75cUXBO1iPE-XtAHDagEhW53YEJB9iWbqWaNWGnjGbAaYV2AsJ9R0FP64Oo7LFsxHtOdOIXqYdyeGkzP4AoAIajgAkRQ5xzi_-P28fT1uH7zk=w703-h937-no)
 
 <br>
 
@@ -111,10 +96,10 @@ CU에 갔다가 눈에 띄어 집어 들었습니다.
 
 #### &#128073; 제 점수는요 ? G.I. 1 /5
 
-G.I. : Gogooma Index 
+G.I. : Gogooma Index
 
 <BR>
 
-한끼 대용식으로 나온 건데, 100ml로 한끼 식사가 되는 것은 개인차가 있을 것 같습니다. 고구마 맛이 거의 나지 않아, 고구마의 탈을 쓴 두유라고 보시면 될것 같아요! 
+한끼 대용식으로 나온 건데, 100ml로 한끼 식사가 되는 것은 개인차가 있을 것 같습니다. 고구마 맛이 거의 나지 않아, 고구마의 탈을 쓴 두유라고 보시면 될것 같아요!
 
 <BR>
