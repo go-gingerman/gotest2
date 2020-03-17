@@ -1,27 +1,16 @@
 ---
 layout: post
-title: 뺴빼로 더블딥 고구마 뒷북 리뷰
-date: 2019-09-30 9:40:00 +09:00
-author: "Justgogooma"
-permalink: /bbaebbaer-review/
-image:
-  feature: bbaebbaero-thumnail.jpg 
-categories:
-  - Prologue
-  - review
-content_id: id04
-tags:
-  - review
-  - Justgogooma
-  - 저스트고구마
-  - 고구마제품리뷰
-  - 빼빼로더블딥고구마
-description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디어 먹어보았습니다. 3개월만에 뜯어 다 녹아버렸네요..더보기..
+title:  "뺴빼로 더블딥 고구마 뒷북 리뷰 "
+author: justgogooma
+categories: [ 고구마간식, 고구마제품리뷰, 고구마편의점 ]
+image: assets/images/go5.jpg
+rating: 2
 ---
+
 
  <br>
 
-#### 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디어 먹어보았습니다 
+#### 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디어 먹어보았습니다
 
  <br>
 
@@ -39,7 +28,7 @@ description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디�
 
  <br>
 
-한정판이라고 해서 마음 초조하게 하더니 지금도 구매할수 있습니다. 이 그짓말쟁이들... 
+한정판이라고 해서 마음 초조하게 하더니 지금도 구매할수 있습니다. 이 그짓말쟁이들...
 
 
 
@@ -47,7 +36,7 @@ description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디�
 
  <br>
 
-#### 사실 구매한지는 꽤 되었습니다. 
+#### 사실 구매한지는 꽤 되었습니다.
 
 #### 이놈의 게으름 때문에 리뷰가 늦어졌을뿐... ^.ㅠ 3개월 만에 뜯었더니 다 녹아져 있네요...ㅎㅎㅎㅎㅎ  녹아버린 모양새는 용서해주세요  
 
@@ -55,7 +44,7 @@ description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디�
 
   <br>
 
-![bbaebbaero-4](https://lh3.googleusercontent.com/LUlevIkSJ6INM7aIWBKQuC8DkCEKfwbVkc8h3c-y_aL7y8SLWG7-Se-dsBQ7GwXlKzpPk8aVmpkqGifi3Te8m8iozmawK1uVEfZ2e8-CTaaJ7wMC93kv-00IVSOaPhFyxI-2v0R_qtPabk2WlsMK1FSGzB82d9Wa_PPsFC9sXXMrX2RpfDBVN53fHCubCXzoPIst9ol4MkQTbKYcP2mTsQFK5QezPysD8HYvDv1KUEL7VxQAuczePiSkdsFsVv6aPDcHxA1k013svVTDQIfyfEAyfBspXG1E9LAPnYPI7TQ-QG5w2fiVfXzOSrejPOgTs1WimHzgFne3nNTUZmxIolBjA5WCgnnm736QXI3ebgTOM4B_pnLPKDmxDIHGZ98SvifKV8_PD_rKgeZcOz2GDiPP4ixOzvHl4T194GjCxnCN47cu_qTR6IN9gR4u2SwTEcWzOXNTC5BiQIaVeGpf5rOaFLHWTkPtpS5Efp84mk6vTxmpG2by1DGUpbHMckj4fI_1A3JRTy5xj1Exvsx9QoBsMYIvIwkbuTSTyzlwAfDPEhCPmhISG2w5etPCBSOj3bGHVXIxyIPE0VVCd-_HEUtOQDCyybdzULk0wTSUTxyGF1oXtJejkMXCooqHjATLFAaa5rTzzaw1AHtOYv-nDRaVHJwByzEvgSCsLa7dYV8PSr1j0xtiooym1-QPOYFDpTtugFiuKmQ3NUjGaleoDIAuPp0nsVBtUr9TS9w91VgA_DDo=s937-no) 
+![bbaebbaero-4](https://lh3.googleusercontent.com/LUlevIkSJ6INM7aIWBKQuC8DkCEKfwbVkc8h3c-y_aL7y8SLWG7-Se-dsBQ7GwXlKzpPk8aVmpkqGifi3Te8m8iozmawK1uVEfZ2e8-CTaaJ7wMC93kv-00IVSOaPhFyxI-2v0R_qtPabk2WlsMK1FSGzB82d9Wa_PPsFC9sXXMrX2RpfDBVN53fHCubCXzoPIst9ol4MkQTbKYcP2mTsQFK5QezPysD8HYvDv1KUEL7VxQAuczePiSkdsFsVv6aPDcHxA1k013svVTDQIfyfEAyfBspXG1E9LAPnYPI7TQ-QG5w2fiVfXzOSrejPOgTs1WimHzgFne3nNTUZmxIolBjA5WCgnnm736QXI3ebgTOM4B_pnLPKDmxDIHGZ98SvifKV8_PD_rKgeZcOz2GDiPP4ixOzvHl4T194GjCxnCN47cu_qTR6IN9gR4u2SwTEcWzOXNTC5BiQIaVeGpf5rOaFLHWTkPtpS5Efp84mk6vTxmpG2by1DGUpbHMckj4fI_1A3JRTy5xj1Exvsx9QoBsMYIvIwkbuTSTyzlwAfDPEhCPmhISG2w5etPCBSOj3bGHVXIxyIPE0VVCd-_HEUtOQDCyybdzULk0wTSUTxyGF1oXtJejkMXCooqHjATLFAaa5rTzzaw1AHtOYv-nDRaVHJwByzEvgSCsLa7dYV8PSr1j0xtiooym1-QPOYFDpTtugFiuKmQ3NUjGaleoDIAuPp0nsVBtUr9TS9w91VgA_DDo=s937-no)
 
  <br>
 
@@ -67,7 +56,7 @@ description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디�
 
  <br>
 
-#### 리뷰답게 영양정보도 한번 찍어보았습니다. 
+#### 리뷰답게 영양정보도 한번 찍어보았습니다.
 
 <br>
 
@@ -77,7 +66,7 @@ description: 작년 11월에 출시된 뺴빼로 더블딥 고구마를 드디�
 
  <br>
 
-#### 과연 그 맛은 어떠할까요? 
+#### 과연 그 맛은 어떠할까요?
 
 
 

@@ -1,36 +1,23 @@
 ---
 layout: post
-title: 뚜레쥬르에서 만난 고구마 - 사르르 고구마 케이크 빵
-date: 2019-10-01 00:28:00 +09:00
-author: "Justgogooma"
-permalink: /tlj-sarrrgogooma/
-image:
-  feature: sarrr-thumnail.jpg 
-categories:
-  - Prologue
-  - review
-content_id: id05
-tags:
-  - review
-  - Justgogooma
-  - 저스트고구마
-  - 고구마제품리뷰
-  - 뚜레쥬르
-  - 고구마빵
-description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보기..
+title:  "뚜레쥬르에서 만난 고구마 - 사르르 고구마 케이크 빵"
+author: justgogooma
+categories: [ 고구마맛집, 고구마간식, 고구마제품리뷰, 고구마빵 ]
+image: assets/images/go7.jpg
+rating: 1
 ---
 
  <br>
 
-#### 우유랑 먹으면 찰떡궁합이라던 뚜레쥬르 신상빵을 먹어보았습니다. 
+#### 우유랑 먹으면 찰떡궁합이라던 뚜레쥬르 신상빵을 먹어보았습니다.
 
  <br>
 
-간단하게 점심 샐러드를 사러 뚜레쥬르를 갔는데 아니! 어디선가 고구마의 향기가 나는 것이였습니다. 는 아니고 고구마덕후로써 고구마 신상빵이 나왔다는 소식을 접하고 뚜쥬로 달려갔습니다. 
+간단하게 점심 샐러드를 사러 뚜레쥬르를 갔는데 아니! 어디선가 고구마의 향기가 나는 것이였습니다. 는 아니고 고구마덕후로써 고구마 신상빵이 나왔다는 소식을 접하고 뚜쥬로 달려갔습니다.
 
  <br>
 
-수 많은 빵덩어리 중에서 윤아의 얼굴이 보이고.. 
+수 많은 빵덩어리 중에서 윤아의 얼굴이 보이고..
 
 <br>
 
@@ -40,7 +27,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 <Br>
 
-가을 재료를 가~~득 담은 신 제품 중 특별히 윤아's pick이라는 사르르 고구마 케이크 빵을 골라 보았습니다. 역시 윤아언니 배운여자... ★ 
+가을 재료를 가~~득 담은 신 제품 중 특별히 윤아's pick이라는 사르르 고구마 케이크 빵을 골라 보았습니다. 역시 윤아언니 배운여자... ★
 
 <br>
 
@@ -50,7 +37,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 고구마를 닮은 빵에 생크림과 고구마 필링이 듬뿍 들어있어 입안에서 '사르르' 녹는다고 하여 이름 붙여진 '사르르르르 고구마 케이크 빵 '
 
-<br> 
+<br>
 
 
 
@@ -68,11 +55,11 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 <br>
 
-밥 한공기가 300칼로리인데... 다이어트는 빠이네요. 
+밥 한공기가 300칼로리인데... 다이어트는 빠이네요.
 
   <br>
 
-![sarrr4](https://lh3.googleusercontent.com/ejZhvTiV8X3UqG8wTAkxXA88nlYj1Q6RcBGefJXVZLWN3E4VAZ3rw49aCkRAlwuKhkguY9oU8C-9YxcTVacRiWWf7QS2uESlZnff4jKM2mBz_AO4gpZH1rd3FTBRzMYGktME0HZe5JjtkYO-781fMKKaIyc_vGBNhz2a2hPoQ_lNixJsvkjuAnfEYI3zrMMHT6sNSNC11xz10Zau7rX-sWbVBZQZ-KzMSdkRoJnJlW-KRA6LLayG-fUFjxYakjWeHjmuyDmAT5K6OYBVvn0MkQbfLSCve-9b3Cr3kMjTLBBOWhfNMdW3RuHMSy2E2wUzDYfBXeoVelJnuxqC1bUTWdnrDkQjxfYaVUx3j5z8W1zsjXqHFWkPaw_d3Q6IStAAOeNM4_UYWeOZZXcfXcyNpLJTTB4VkEFRHpSejfZ_smhB4Tre01t8-27a1hvwilKF2FXcacPWpl_-sxWUHmcPr7F3xiirVF5khSBeIqov1MUKoYHvg09OGiz7Shx-4CAuSmxgSCuR1q96HTN1dzPQmAVdvZlgy0IDRxvU1VwEZE5VeDaWcGxlCdVUc0LqtEbmNuSDxpHfvpvc-ixyNSud8snDSyMRJnfpe4i-Z2CF-3vGaMZulkqzdtjrnb--CQeQiypf0EfX_tsY9Jmn06PySCmfVGwKjOnxcocqC0pPrvLPHq-EXuMisFnsEKFG5sbJc_uQ_Nb_ffjbdFgvAoUmi4qWjMa-5SM4zo5L9szcHvVZReAj=w960-h721-no) 
+![sarrr4](https://lh3.googleusercontent.com/ejZhvTiV8X3UqG8wTAkxXA88nlYj1Q6RcBGefJXVZLWN3E4VAZ3rw49aCkRAlwuKhkguY9oU8C-9YxcTVacRiWWf7QS2uESlZnff4jKM2mBz_AO4gpZH1rd3FTBRzMYGktME0HZe5JjtkYO-781fMKKaIyc_vGBNhz2a2hPoQ_lNixJsvkjuAnfEYI3zrMMHT6sNSNC11xz10Zau7rX-sWbVBZQZ-KzMSdkRoJnJlW-KRA6LLayG-fUFjxYakjWeHjmuyDmAT5K6OYBVvn0MkQbfLSCve-9b3Cr3kMjTLBBOWhfNMdW3RuHMSy2E2wUzDYfBXeoVelJnuxqC1bUTWdnrDkQjxfYaVUx3j5z8W1zsjXqHFWkPaw_d3Q6IStAAOeNM4_UYWeOZZXcfXcyNpLJTTB4VkEFRHpSejfZ_smhB4Tre01t8-27a1hvwilKF2FXcacPWpl_-sxWUHmcPr7F3xiirVF5khSBeIqov1MUKoYHvg09OGiz7Shx-4CAuSmxgSCuR1q96HTN1dzPQmAVdvZlgy0IDRxvU1VwEZE5VeDaWcGxlCdVUc0LqtEbmNuSDxpHfvpvc-ixyNSud8snDSyMRJnfpe4i-Z2CF-3vGaMZulkqzdtjrnb--CQeQiypf0EfX_tsY9Jmn06PySCmfVGwKjOnxcocqC0pPrvLPHq-EXuMisFnsEKFG5sbJc_uQ_Nb_ffjbdFgvAoUmi4qWjMa-5SM4zo5L9szcHvVZReAj=w960-h721-no)
 
  <br>
 
@@ -82,7 +69,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 <br>
 
-왠지 눈코입을 그리고 싶게 생겨서 그려보았습니다. 컴퓨터로도 느껴지는 똥손이네요.. 좀 징그러운 느낌도 들고... 
+왠지 눈코입을 그리고 싶게 생겨서 그려보았습니다. 컴퓨터로도 느껴지는 똥손이네요.. 좀 징그러운 느낌도 들고...
 
 <br>
 
@@ -92,7 +79,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
   <br>
 
-#### 그럼 본격적으로 먹어 볼까요? 
+#### 그럼 본격적으로 먹어 볼까요?
 
 <br>
 
@@ -102,7 +89,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 반으로 가른 모습입니다.
 
-설명대로 생크림과 고구마 필링이 담겨져 있네요. 하지만 '듬뿍' 과 '사르르'와는 거리가 먼것 같습니다. 
+설명대로 생크림과 고구마 필링이 담겨져 있네요. 하지만 '듬뿍' 과 '사르르'와는 거리가 먼것 같습니다.
 
 <br>
 
@@ -114,7 +101,7 @@ description: 우유랑 먹으면 찰떡궁합이라던데 정말일까..더보�
 
 #### 제 점수는 요 ? G.I. 2/5
 
-G.I. : Gogooma Index 
+G.I. : Gogooma Index
 
 <BR>
 
