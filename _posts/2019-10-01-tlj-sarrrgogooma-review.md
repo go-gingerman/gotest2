@@ -4,7 +4,7 @@ title:  "뚜레쥬르에서 만난 고구마 - 사르르 고구마 케이크 빵
 author: justgogooma
 categories: [ 고구마맛집, 고구마간식, 고구마제품리뷰, 고구마빵 ]
 image: assets/images/go7.jpg
-rating: 1
+rating: 2
 ---
 
  <br>
