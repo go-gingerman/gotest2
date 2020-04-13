@@ -7,8 +7,6 @@ image: assets/images/go1.jpg
 description: "🍠🍠스타벅스에서 만난 고구마🍠🍠
 별다방에서 FLEX해버려따...⭐️"
 rating: 4
-featured: true
-hidden: true
 ---
 
 
