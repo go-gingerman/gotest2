@@ -1,4 +1,4 @@
-I"�S
+I">R
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -6,6 +6,10 @@
         <h2><span>Featured</span></h2>
     </div>
     <div class="row">
+
+    
+
+        
 
     
 
@@ -63,10 +67,6 @@
     </div>
 </div>
 <!-- end post -->
-
-        
-
-    
 
         
 
@@ -159,62 +159,6 @@
 
     
 
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
-        
-
-    
-
     </div>
 </section>
 
@@ -242,7 +186,7 @@
                 
 
                     
-                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/artgo.jpg" alt="아티제 고구마 밤 데니쉬" />
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/taegeukdang.jpg" alt="태극당 고구마 페스츄리" />
                     
 
                 
@@ -250,11 +194,11 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/taegeukdang/">아티제 고구마 밤 데니쉬</a>
+                <a class="text-dark" href="/taegeukdang/">태극당 고구마 페스츄리</a>
                 
                 <div class="mb-2 mt-2 font-weight-normal">
                 <div class="rating-holder">
-<div class="c-rating c-rating--regular" data-rating-value="2">
+<div class="c-rating c-rating--regular" data-rating-value="3">
   <button>1</button>
   <button>2</button>
   <button>3</button>
@@ -265,7 +209,7 @@
                 </div>
                 
             </h2>
-            <h4 class="card-text">🍠🍠아티제에서 만난 고구마🍠🍠
+            <h4 class="card-text">태극당에서 만난 고구마 - 고구마 페스츄리
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -279,7 +223,7 @@
                 <span class="author-meta">
                 <span class="post-name"><a target="_blank" href="https://mygogooma.com">저스트고구마</a></span><br />
                 
-                <span class="post-date">13 Apr 2020</span>
+                <span class="post-date">15 Apr 2020</span>
                 </span>
                 <span class="post-read-more"><a href="/taegeukdang/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
@@ -608,14 +552,6 @@
   
     
       <a class="ml-1 mr-1" href="/page2/">2</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page3/">3</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page4/">4</a>
     
   
 
