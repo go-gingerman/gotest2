@@ -6,6 +6,9 @@ categories: [ 고구마카페, 고구마맛집, 고구마간식, 고구마, 고�
 image: assets/images/taegeukdang.jpg
 description: "태극당에서 만난 고구마: 서울에서 가장 오래된 빵집에서 맛본 고구마 빵은? "
 rating: 3
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
 ---
 
 # 태극당에서 만난 고구마 - 고구마 페스츄리 
