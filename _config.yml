@@ -76,9 +76,9 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
 # Google maps
-  maps:
-    google:
-      api_key: AIzaSyCj7U_qPzlzunmN5FVh8_xR46rqW2tPAJo
+maps:
+  google:
+    api_key: "AIzaSyCj7U_qPzlzunmN5FVh8_xR46rqW2tPAJo"
 
       
 
