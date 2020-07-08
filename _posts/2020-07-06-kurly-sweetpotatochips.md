@@ -9,10 +9,7 @@ description: "🍠🍠마켓컬리에서 만난 고구마🍠🍠
 rating: 3
 ---
 
-
-마켓컬리에서 만난 고구마🍠🍠
-
-
+# 마켓컬리에서 만난 고구마 - Better me 순수 고구마칩
 
 
 ![kurly-sweetpotatochip2](https://lh3.googleusercontent.com/pw/ACtC-3f2GW8WaallBcaFRZ4K0HMueEt6AJUqtb9gg3LLc7Z34r52TW587rxShMEul57XlVSlZp2lMrNpNvXKQV89vnrQK958uVK21I-Wz4oMxMQog0UZ7yqIIuirM93T_kV-JgRKrADW1i46N1DzoxA0xax57w=w768-h1024-no?authuser=1)
