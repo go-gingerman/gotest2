@@ -69,16 +69,4 @@ rating: 3
 
 
 
-{% google_map
-   zoom="15"
-   latitude="37.559594"
-   longitude="127.005181"
-   marker_title="태극당"
-   marker_url="https://goo.gl/maps/fA936FiVTMJQMnvbA" %}
-
-
-
-
-
-
 
