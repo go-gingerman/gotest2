@@ -5,15 +5,12 @@ author: justgogooma
 categories: [ 고구마제품리뷰, 고구마, 고구마맛집, 고구마간식, 마켓컬리, 고구마칩, 고구마과자 ]
 image: assets/images/kurlysweetpotatochip.jpg
 description: "🍠🍠마켓컬리에서 만난 고구마🍠🍠
-별다방에서 FLEX해버려따...⭐️"
+단맛을 느끼려면 소가 되어야 한다"
 rating: 3
 ---
 
 
 마켓컬리에서 만난 고구마🍠🍠
-
-
-![kurly-sweetpotatochip1](hhttps://lh3.googleusercontent.com/pw/ACtC-3cMRb5OOY5ZgWrMmNIq0k37x5f5ENmMvr1jenqFZP0_r3Necf9_bYrV7NOUsKIaDnRgZmkJGDEYaGsGDiJeIPZ-ZJFU7TzNmnyPBFgrQwCZSmKI8gckuP0TDr1yQ1I2Dtq1ibaj113j6BYR65bDexnvQw=s1080-no?authuser=1)
 
 
 
@@ -52,3 +49,4 @@ rating: 3
 
 양이 정말 창렬합니다!
 
+순수한 그 마음은 좋으나 가격은 전혀 순수하지 않네요! 고구마 3개 드려요!
