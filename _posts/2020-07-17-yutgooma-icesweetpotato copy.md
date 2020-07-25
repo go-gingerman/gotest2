@@ -10,10 +10,6 @@ rating: 5
 ---
 
 
-![yutgooma-sweetpotato1](https://lh3.googleusercontent.com/pw/ACtC-3drHKSRfz3QDKxFKccreGRBOnAQ7uOImV26HGIo_5R4zsgt4IUZmO_QheeiOrcyHizuuuDoxp8n2crrPw9NT3TDVFfHZiFsk75Y_TABEMGT0EJF1D-WSMXCgbZcJ2IP9jieZcran_qNp13x2oyG4c9KIQ=w799-h984-no?authuser=0)
-
-
-
 맛꾼푸드 아이스 엿구마를 먹어보았습니다.
 
 저스트고구마는 협찬을 받지 않습니다. 직접 제 돈을 주고 먹어보고 객관적이고 공정한 평가함을 다시 한번 강조합니다. 
