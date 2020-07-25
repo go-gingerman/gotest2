@@ -4,7 +4,8 @@ title:  "맛꾼푸드 아이스 엿구마- 저스트고구마 강추템"
 author: justgogooma
 categories: [ 고구마제품리뷰, 고구마, 고구마맛집, 고구마간식, 저스토고구마추천, 맛꾼푸드, 아이스고구마 ]
 image: assets/images/yutgoogma.jpeg
-description: "이런 엿같은 경우는 처음 봅니다. 저스트고구마 강추 아이템"
+description: "이런 엿 같은 고구마는 처음 봅니다.
+저스트고구마 강추 아이템"
 rating: 5
 ---
 
