@@ -8,8 +8,6 @@ description: "다른 의미의 엿같은 고구마 입니다.."
 rating: 1
 ---
 
-# 맛꾼푸드 아이스 엿구마 - 저스트고구마 강추템
-
 
 ![nobrand-icesweetpotato](https://lh3.googleusercontent.com/pw/ACtC-3ejPUeH2voOdmTAHLzGNLiQmm_JImookv_iTq6IGaG-Vh0ZMLa1pev4g1NLSlGv2GStCfUqtiRcftDB0xL-YfFkp2aBPOYVRHNZqC8Y_ROf9seMTSbzLRgIxvfuOO31iL0RWPpXfIm8NG1tFFyoL8OrwA=s1410-no?authuser=0)
 

@@ -8,8 +8,6 @@ description: "이런 엿같은 경우는 처음 봅니다. 저스트고구마 �
 rating: 5
 ---
 
-# 맛꾼푸드 아이스 엿구마 - 저스트고구마 강추템
-
 
 ![yutgooma-sweetpotato1](https://lh3.googleusercontent.com/pw/ACtC-3drHKSRfz3QDKxFKccreGRBOnAQ7uOImV26HGIo_5R4zsgt4IUZmO_QheeiOrcyHizuuuDoxp8n2crrPw9NT3TDVFfHZiFsk75Y_TABEMGT0EJF1D-WSMXCgbZcJ2IP9jieZcran_qNp13x2oyG4c9KIQ=w799-h984-no?authuser=0)
 
