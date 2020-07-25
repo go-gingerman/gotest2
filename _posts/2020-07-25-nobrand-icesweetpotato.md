@@ -1,21 +1,18 @@
 ---
 layout: post
-title:  "노브랜드 아이스 - 저스트고구마 강추템"
+title:  "노브랜드 175ºC 1시간 30분 구운 아이스 군고구마"
 author: justgogooma
 categories: [ 고구마제품리뷰, 고구마, 고구마맛집, 고구마간식, 저스토고구마추천, 맛꾼푸드, 아이스고구마 ]
 image: assets/images/nobrand-ice.png
-description: "다른 의미의 엿같은 고구마 입니다.."
+description: "다른 의미의 엿 같은 경우,
+노브랜드에서 만난 고구마"
 rating: 1
 ---
 
-
-![nobrand-icesweetpotato](https://lh3.googleusercontent.com/pw/ACtC-3ejPUeH2voOdmTAHLzGNLiQmm_JImookv_iTq6IGaG-Vh0ZMLa1pev4g1NLSlGv2GStCfUqtiRcftDB0xL-YfFkp2aBPOYVRHNZqC8Y_ROf9seMTSbzLRgIxvfuOO31iL0RWPpXfIm8NG1tFFyoL8OrwA=s1410-no?authuser=0)
-
-
-
 노브랜드 '175ºC 1시간 30분 구운 아이스 군고구마'를 먹어보았습니다.
 
-가격은 2850원? (기억이 잘 나지 않네요 한 봉지에 손바닥 보다 약간 작은 고구마 2개가 
+가격은 2850원? (기억이 잘 나지 않네요)
+한 봉지에 손바닥 보다 약간 작은 고구마 2개가 들어있어요!
 
 이름아 매우 깁니다. 이름뿐만 아니라 고구마 심도 깁니다.
 엿구마와의 공정한 비교를 위해 똑같이 자연해동의 방법으로 먹었습니다. 
