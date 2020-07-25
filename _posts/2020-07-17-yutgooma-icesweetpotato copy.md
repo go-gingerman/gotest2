@@ -46,8 +46,11 @@ rating: 5
 엿같이 달콤하며
 고구마의 달달한 육즙(?)아 흘러나와 살짝 구워져 카라멜라이즈된 부분은 엿같이 쫀득합니다. 
 
+정말 다른 것이 첨가되었는지 성분표를 보아도, 고구마 명가 해남 고구마 100% 입니다. 
+정말 훌륭합니다. 해남 고구마의 위상을 높여주었습니다.
 
-![yutgooma-sweetpotato1](https://lh3.googleusercontent.com/pw/ACtC-3dphec3-ICoKYYoiN7Fs8tLeTqS1RT3FikUFbqXryeyPRyQMN9luxWKfcbip4qJvtD3IvJpHluLQLKXdOFZFq70ThocoNQYFLczrgE8aUhyrQeZN9sgB_CGHFk8YjgTnzihdxbU0Ls5tqSMLyC93hl3Cw=w1024-h768-no?authuser=1)
+
+![yutgooma-sweetpotato2](https://lh3.googleusercontent.com/pw/ACtC-3dphec3-ICoKYYoiN7Fs8tLeTqS1RT3FikUFbqXryeyPRyQMN9luxWKfcbip4qJvtD3IvJpHluLQLKXdOFZFq70ThocoNQYFLczrgE8aUhyrQeZN9sgB_CGHFk8YjgTnzihdxbU0Ls5tqSMLyC93hl3Cw=w1024-h768-no?authuser=1)
 
 먹는 방법은 두가지 입니다. 
 전자레인지로 돌리거나 자연해동.
@@ -55,7 +58,7 @@ rating: 5
 사실 전자레인지로 돌려 먹어본 적이 없습니다.
 채 녹기도 전에 우거우걱 먹고 있기 떄문이죠
 
-![kurly-sweetpotatochip4](https://lh3.googleusercontent.com/pw/ACtC-3cNVb9ViXh5uhCxEy-JEdEFxFdBK53ivao2lDbCip-vO9ubLN6TTL0v2bK9vyG3AZLiCeF4xUQsAE8BSsq1RYKmHfooeiqVaqHwhVQ10cXwKMSC5CtmJ7Htj260lNu0e3Ilag-vizk0GIu9_MBgr2oAAw=w768-h1024-no?authuser=1)
+![yutgooma-sweetpotato3](https://lh3.googleusercontent.com/pw/ACtC-3fs6lDldqGKx-9dxOXPivonTlXxqSkrfbxvsQBtnO0nHuiYZpYVppM4pGDwxppqerTnPj2Tc6kBdZ00Xsu_oooQyda1ZGrYE-zaGPceNsLZuyIkjB3ouKM1eMvBkYaa9sU1H81MkbxNht9Oz1XcgraxNg=w768-h1024-no?authuser=0)
 
 
 비주얼이 똥과 같다구요?
