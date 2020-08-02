@@ -3,7 +3,7 @@ layout: post
 title:  "The Real 한입 자색 찐고구마"
 author: justgogooma
 categories: [ 고구마제품리뷰, 고구마, 고구마맛집, 고구마간식, 마켓컬리, 아이스고구마, 고구마간식, 간편고구마]
-image: marketkurly-jjingogooma.jpg
+image: assets/images/marketkurly-jjingogooma.jpg
 description: "마켓컬리에서 만난 고구마 - 한입 자색 찐 고구마"
 rating: 2
 ---
@@ -28,7 +28,7 @@ rating: 2
 
 
 
-![kurly-jjingogooma-2](https://lh3.googleusercontent.com/pw/ACtC-3daVV3BWMrMdo0GoGqeGLBy53-Nskqto7pDZlu7gvbmrZm5SFjY6TziruKsDkqg2k5aGZbvUGnQtKvzXFhddYn3tbzXd4JBzqRmrEgUD1iMw9ZTgkUGh2Soos9Mef-fDqx6cyT-catNu-1zlNtAO4COuQ=w768-h1024-no?authuser=0)
+![kurly-jjingogooma-2](https://lh3.googleusercontent.com/pw/ACtC-3dAxPCVm4IDkRZ7pKyEmJ_WlcEhiordf7l6iF1rHH1L1d916HyXXpeaQPiXPO7Bk0bDWHs64AA3YWPyXzGZh-7FaGXOGz2wCo7alRJW0I3sfnSfl7pLjyU_oQmoyQzQACn-Sv6DqdCp2dfaF6qUExFCsQ=w799-h984-no?authuser=0)
 
 
 중국산 고구마로 만든 것으로 베이징에서 물건너온 제품입니다. 이것은 먼가 찜찜하네요 
